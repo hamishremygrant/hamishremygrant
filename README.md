@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @hamishremygrant
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in BLOCKCHAIN
+- 🌱 I’m currently learning BLOCKCHAIN TECHNOLOGY
+- 💞️ I’m looking to collaborate on BLOCKCHAIN
+- 📫 How to reach me hamishremygrant@gmail.com
+
 
 <!---
 hamishremygrant/hamishremygrant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
